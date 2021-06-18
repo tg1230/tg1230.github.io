@@ -1,0 +1,11 @@
+Travis Garcia:
+  name        : "Travis Garcia"
+  bio         : "Software Engineer"
+  avatar      : "/assets/images/Travis.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/tg1230/"
+    - label: "Github"
+      icon: "fas fa-fw fa-code"
+      url: "https://github.com/tg1230"
